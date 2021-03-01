@@ -1,0 +1,23 @@
+{
+  "name": "shopbanhang",
+  "version": "9.0.0",
+  "description": "ban do re va xin",
+  "main": "trangchu.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTeacherLong/CodeTuan4.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web"
+  ],
+  "author": "MrTeacherLong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrTeacherLong/CodeTuan4/issues"
+  },
+  "homepage": "https://github.com/MrTeacherLong/CodeTuan4#readme"
+}
